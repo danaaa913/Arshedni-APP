@@ -1,0 +1,9 @@
+car
+chair
+hole
+obstacle
+person
+sidewalk
+stairs
+trash
+tree
